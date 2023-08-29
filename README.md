@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unankam
+- 👋 Hi, I’m michael
 - 👀 I’m interested in knowing more about java  
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on on anything
